@@ -6,3 +6,5 @@ c = a*b
 print(c)
 d = a+4
 print(d)
+u = a**a
+print(u)
