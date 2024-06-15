@@ -8,3 +8,5 @@ d = a+4
 print(d)
 u = a**a
 print(u)
+r = a**b+c
+print(r)
